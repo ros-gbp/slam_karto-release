@@ -1,3 +1,24 @@
+## slam_karto (indigo) - 0.7.3-0
+
+The packages in the `slam_karto` repository were released into the `indigo` distro by running `/usr/bin/bloom-release -r indigo -t indigo slam_karto` on `Fri, 05 Feb 2016 07:44:37 -0000`
+
+The `slam_karto` package was released.
+
+Version of package(s) in repository `slam_karto`:
+- upstream repository: https://github.com/ros-perception/slam_karto.git
+- release repository: https://github.com/ros-gbp/slam_karto-release.git
+- rosdistro version: `0.7.2-0`
+- old version: `0.7.2-0`
+- new version: `0.7.3-0`
+
+Versions of tools used:
+- bloom version: `0.5.20`
+- catkin_pkg version: `0.2.6`
+- rosdep version: `0.11.4`
+- rosdistro version: `0.4.2`
+- vcstools version: `0.1.36`
+
+
 ## slam_karto (indigo) - 0.7.2-0
 
 The packages in the `slam_karto` repository were released into the `indigo` distro by running `/usr/bin/bloom-release -r indigo -t indigo slam_karto` on `Sun, 19 Jul 2015 05:07:00 -0000`
