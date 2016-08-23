@@ -1,3 +1,26 @@
+## slam_karto (kinetic) - 0.7.3-0
+
+The packages in the `slam_karto` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release -r kinetic -t kinetic slam_karto` on `Tue, 23 Aug 2016 17:54:29 -0000`
+
+The `slam_karto` package was released.
+
+Version of package(s) in repository `slam_karto`:
+
+- upstream repository: https://github.com/ros-perception/slam_karto.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.7.3-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.21`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.4.7`
+- vcstools version: `0.1.38`
+
+
 ## slam_karto (indigo) - 0.7.3-0
 
 The packages in the `slam_karto` repository were released into the `indigo` distro by running `/usr/bin/bloom-release -r indigo -t indigo slam_karto` on `Fri, 05 Feb 2016 07:44:37 -0000`
