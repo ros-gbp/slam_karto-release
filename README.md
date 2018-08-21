@@ -1,3 +1,26 @@
+## slam_karto (lunar) - 0.7.3-0
+
+The packages in the `slam_karto` repository were released into the `lunar` distro by running `/usr/bin/bloom-release -r lunar -t lunar slam_karto` on `Tue, 21 Aug 2018 23:23:14 -0000`
+
+The `slam_karto` package was released.
+
+Version of package(s) in repository `slam_karto`:
+
+- upstream repository: https://github.com/ros-perception/slam_karto.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.7.3-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.2`
+- catkin_pkg version: `0.3.9`
+- rosdep version: `0.11.8`
+- rosdistro version: `0.6.4`
+- vcstools version: `0.1.40`
+
+
 ## slam_karto (melodic) - 0.8.0-0
 
 The packages in the `slam_karto` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -r melodic -t melodic slam_karto` on `Tue, 21 Aug 2018 23:05:05 -0000`
