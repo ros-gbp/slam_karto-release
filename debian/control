@@ -1,0 +1,12 @@
+Source: ros-lunar-slam-karto
+Section: misc
+Priority: extra
+Maintainer: Michael Ferguson <mferguson@fetchrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), libeigen3-dev, ros-lunar-catkin, ros-lunar-cmake-modules, ros-lunar-message-filters, ros-lunar-nav-msgs, ros-lunar-open-karto, ros-lunar-rosconsole, ros-lunar-roscpp, ros-lunar-sensor-msgs, ros-lunar-sparse-bundle-adjustment, ros-lunar-tf, ros-lunar-visualization-msgs
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-lunar-slam-karto
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libeigen3-dev, ros-lunar-message-filters, ros-lunar-nav-msgs, ros-lunar-open-karto, ros-lunar-rosconsole, ros-lunar-roscpp, ros-lunar-sensor-msgs, ros-lunar-sparse-bundle-adjustment, ros-lunar-tf, ros-lunar-visualization-msgs
+Description: This package pulls in the Karto mapping library, and provides a ROS wrapper for using it.
