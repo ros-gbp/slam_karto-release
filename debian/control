@@ -1,0 +1,12 @@
+Source: ros-melodic-slam-karto
+Section: misc
+Priority: extra
+Maintainer: Michael Ferguson <mfergs7@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), libeigen3-dev, ros-melodic-catkin, ros-melodic-cmake-modules, ros-melodic-message-filters, ros-melodic-nav-msgs, ros-melodic-open-karto, ros-melodic-rosconsole, ros-melodic-roscpp, ros-melodic-sensor-msgs, ros-melodic-sparse-bundle-adjustment, ros-melodic-tf, ros-melodic-visualization-msgs
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-melodic-slam-karto
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libeigen3-dev, ros-melodic-message-filters, ros-melodic-nav-msgs, ros-melodic-open-karto, ros-melodic-rosconsole, ros-melodic-roscpp, ros-melodic-sensor-msgs, ros-melodic-sparse-bundle-adjustment, ros-melodic-tf, ros-melodic-visualization-msgs
+Description: This package pulls in the Karto mapping library, and provides a ROS wrapper for using it.
