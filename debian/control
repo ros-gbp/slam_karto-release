@@ -1,0 +1,12 @@
+Source: ros-noetic-slam-karto
+Section: misc
+Priority: optional
+Maintainer: Michael Ferguson <mfergs7@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), libeigen3-dev, ros-noetic-catkin, ros-noetic-cmake-modules, ros-noetic-message-filters, ros-noetic-nav-msgs, ros-noetic-open-karto, ros-noetic-rosconsole, ros-noetic-roscpp, ros-noetic-sensor-msgs, ros-noetic-sparse-bundle-adjustment, ros-noetic-tf, ros-noetic-visualization-msgs
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-noetic-slam-karto
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libeigen3-dev, ros-noetic-message-filters, ros-noetic-nav-msgs, ros-noetic-open-karto, ros-noetic-rosconsole, ros-noetic-roscpp, ros-noetic-sensor-msgs, ros-noetic-sparse-bundle-adjustment, ros-noetic-tf, ros-noetic-visualization-msgs
+Description: This package pulls in the Karto mapping library, and provides a ROS wrapper for using it.
