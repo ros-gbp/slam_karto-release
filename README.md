@@ -1,3 +1,26 @@
+## slam_karto (noetic) - 0.8.1-1
+
+The packages in the `slam_karto` repository were released into the `noetic` distro by running `/usr/bin/bloom-release -r noetic -t noetic slam_karto` on `Wed, 22 Apr 2020 15:35:27 -0000`
+
+The `slam_karto` package was released.
+
+Version of package(s) in repository `slam_karto`:
+
+- upstream repository: https://github.com/ros-perception/slam_karto.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.8.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.3`
+- catkin_pkg version: `0.4.16`
+- rosdep version: `0.15.1`
+- rosdistro version: `0.8.0`
+- vcstools version: `0.1.42`
+
+
 ## slam_karto (lunar) - 0.8.1-0
 
 The packages in the `slam_karto` repository were released into the `lunar` distro by running `/usr/bin/bloom-release -r lunar -t lunar slam_karto` on `Tue, 11 Sep 2018 16:05:30 -0000`
